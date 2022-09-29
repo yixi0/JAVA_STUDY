@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="692eeb3b-1726-4fd0-bccd-6907b4c2a6bb" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ENlmljnw2idvJzDFfJqJkUQvu4" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="DuoXianCheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuoXianCheng" />
+      <module name="OJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OJ" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="JUnit.Main.test" />
+        <item itemvalue="应用程序.Main (2)" />
+        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.DuoXianCheng" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="692eeb3b-1726-4fd0-bccd-6907b4c2a6bb" name="变更" comment="" />
+      <created>1662444089382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662444089382</updated>
+      <workItem from="1662444090504" duration="14652000" />
+      <workItem from="1662474259845" duration="433000" />
+      <workItem from="1662514048172" duration="4542000" />
+      <workItem from="1662519533388" duration="8889000" />
+      <workItem from="1662539159796" duration="466000" />
+      <workItem from="1662558719179" duration="840000" />
+      <workItem from="1662618737845" duration="1043000" />
+      <workItem from="1662624136838" duration="844000" />
+      <workItem from="1662646947579" duration="730000" />
+      <workItem from="1663048652316" duration="19663000" />
+      <workItem from="1663120099609" duration="791000" />
+      <workItem from="1663139223838" duration="3188000" />
+      <workItem from="1663143111695" duration="56000" />
+      <workItem from="1663585262528" duration="2854000" />
+      <workItem from="1663636081540" duration="211000" />
+      <workItem from="1663661706484" duration="326000" />
+      <workItem from="1663662556995" duration="3897000" />
+      <workItem from="1663743149187" duration="13000" />
+      <workItem from="1663747373480" duration="8940000" />
+      <workItem from="1664029162072" duration="774000" />
+      <workItem from="1664029947863" duration="900000" />
+      <workItem from="1664168969578" duration="2856000" />
+      <workItem from="1664193314192" duration="5454000" />
+      <workItem from="1664239583864" duration="4361000" />
+      <workItem from="1664251818304" duration="6409000" />
+      <workItem from="1664261965122" duration="10000" />
+      <workItem from="1664329439513" duration="2581000" />
+      <workItem from="1664346251081" duration="207000" />
+      <workItem from="1664348324822" duration="193000" />
+      <workItem from="1664349088621" duration="360000" />
+      <workItem from="1664349987038" duration="211000" />
+      <workItem from="1664350289209" duration="423000" />
+      <workItem from="1664351874045" duration="4319000" />
+      <workItem from="1664359462985" duration="14583000" />
+      <workItem from="1664462761856" duration="1505000" />
+      <workItem from="1664464326673" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_341/src.zip!/java/util/List.java</url>
+          <line>260</line>
+          <properties class="java.util.List" method="remove">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="users" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
