@@ -19,7 +19,10 @@ import java.util.*;
  * 每个待授权的行为都会包含主体用户和其关联的用户组的信息
  */
 
-public class Main {
+/*
+    ccf_角色授权 80point
+ */
+public class RoleAuthentication {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n, m, q;
