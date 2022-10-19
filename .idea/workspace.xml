@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="692eeb3b-1726-4fd0-bccd-6907b4c2a6bb" name="变更" comment="" />
+    <list default="true" id="692eeb3b-1726-4fd0-bccd-6907b4c2a6bb" name="变更" comment="Modify the name of class from Main to RoleAuthentication">
+      <change beforePath="$PROJECT_DIR$/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/id714.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Multinomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/id714.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ENlmljnw2idvJzDFfJqJkUQvu4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -31,6 +49,7 @@
     &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/GitHub/md5&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,39 +59,46 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Main">
-    <configuration name="DuoXianCheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuoXianCheng" />
+  <component name="RunManager" selected="应用程序.CSP202012_3">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
       <module name="OJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="CSP202012_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSP202012_3" />
       <module name="OJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="E (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E" />
       <module name="OJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="RoleAuthentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RoleAuthentication" />
       <module name="OJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="OJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OJ" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="main" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -81,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="JUnit.Main.test" />
-        <item itemvalue="应用程序.Main (2)" />
-        <item itemvalue="应用程序.Main (1)" />
-        <item itemvalue="应用程序.DuoXianCheng" />
+        <item itemvalue="应用程序.CSP202012_3" />
+        <item itemvalue="应用程序.main" />
+        <item itemvalue="JUnit.main.test" />
+        <item itemvalue="应用程序.E (1)" />
+        <item itemvalue="应用程序.A" />
       </list>
     </recent_temporary>
   </component>
@@ -132,12 +158,50 @@
       <workItem from="1664351874045" duration="4319000" />
       <workItem from="1664359462985" duration="14583000" />
       <workItem from="1664462761856" duration="1505000" />
-      <workItem from="1664464326673" duration="334000" />
+      <workItem from="1664464326673" duration="1580000" />
+      <workItem from="1664593014380" duration="1116000" />
+      <workItem from="1664862674314" duration="1532000" />
+      <workItem from="1664971180899" duration="71000" />
+      <workItem from="1665465394972" duration="14000" />
+      <workItem from="1665468009838" duration="8749000" />
+      <workItem from="1665550288003" duration="75000" />
+      <workItem from="1665562130546" duration="3120000" />
+      <workItem from="1665565468029" duration="3061000" />
+      <workItem from="1665589876209" duration="471000" />
+      <workItem from="1665634968684" duration="4989000" />
+      <workItem from="1665658973717" duration="7750000" />
+      <workItem from="1665742845762" duration="6012000" />
+      <workItem from="1665799518502" duration="5157000" />
+      <workItem from="1665817145280" duration="16000" />
+      <workItem from="1666169087719" duration="6364000" />
     </task>
+    <task id="LOCAL-00001" summary="Modify the name of class from Main to RoleAuthentication">
+      <created>1664465049220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664465049220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify the name of class from Main to RoleAuthentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify the name of class from Main to RoleAuthentication" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -150,6 +214,16 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CSP202012_3.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CSP202012_3.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
